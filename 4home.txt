@@ -141,8 +141,8 @@ h3 {text-shadow: 0 0 5px pink,0 0 5px pink,
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
+      <a href="eep.html">Quarter 1</a>
+      <a href="2home.html">Quarter 2</a>
     </div>
   </div> 
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
@@ -172,6 +172,10 @@ function myFunction() {
 <br><br><br>
 <h3 align="center">Click the navigation bar for more!</h3>
 
+  <audio autoplay loop>
+<source src="btm.mp3" type="audio/mp3">
+</audio>
+  
 </body>
 
 </html>
